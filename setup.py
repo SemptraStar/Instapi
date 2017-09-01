@@ -7,5 +7,4 @@ setup(name='instapi',
       download_url = 'https://github.com/SemptraStar/instapi/archive/v._0.1.tar.gz',
       author='Alexey Sachek',
       author_email='olesksii.sachek@nure.ua',
-      packages=['instapi'],
-      zip_safe=False)
+      packages=['instapi'])
